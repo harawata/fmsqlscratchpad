@@ -19,6 +19,10 @@ FM SQL Scratchpad is an effort to improve productivity when writing FileMaker's 
 - __FileMaker Pro 12__ : Advanced version is required to add the custom functions to your solutions.
 - __2empowerFM Text Toolkit plugin__ : A free FileMaker plugin by [Draconventions](http://www.dracoventions.com/). It is used only by FM SQL Scratchpad which means it is not required on production environments. It can be downloaded from [Draconventions product page](http://www.dracoventions.com/products/2empowerFM/family/regex.php)
 
+## Download
+
+.zip archive can be downloaded from https://bintray.com/harawata/fm/fmsqlscratchpad
+
 ## Setup
 
 _If you just want to see how it works, please skip to the next 'Quick start' section which uses the sample database  for the explanation._  
