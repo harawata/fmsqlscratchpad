@@ -1,7 +1,8 @@
 FM SQL Scratchpad
 ===============
 
-FM SQL Scratchpad is an effort to improve productivity when writing FileMaker's ExecuteSQL function.
+FM SQL Scratchpad is an effort to improve productivity when writing FileMaker's ExecuteSQL function.  
+Here is a short [demo video](http://youtu.be/nI50qWtkinM).
 
 ![Screen](screen.png)
 
@@ -124,6 +125,7 @@ On Windows, use _ctrl_ and _alt_ instead of _cmd_ and _opt_ respectively.
 ### Examples
 
 Here are a few example usage of content assist.  
+Please see the [demo video](http://youtu.be/nI50qWtkinM).  
 It assumes that the example _Event Management_ solution exists.
 
 - Single candidate :
